@@ -14,6 +14,6 @@ def remainder(x,y):
     answer = x % y
     return answer
 
-def multiply(v,p):
-    answer = v * p
+def multiply(l,o):
+    answer = l * o
     return answer   
